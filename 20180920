@@ -4,8 +4,8 @@
 #include <stdlib.h>
 int main(void)
 {
-   printf("Hello C!\n");   	/* 印出Hello C! 字串 */
-   printf("Hello World!\n");   /* 印出Hello World! 字串 */   
+   printf("Hello C!\n");   	/*Hello C! */
+   printf("Hello World!\n");   /*Hello World!  */   
    
    system("pause");
    return 0;
